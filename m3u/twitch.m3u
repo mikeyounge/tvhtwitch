@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="RTGame" tvg-language="English" tvg-country="IR" tvg-logo="https://yt3.googleusercontent.com/uEg1-XfHTF1-28XROsJmA5Hn8BdRIn7S_6lr1MkVVVk-qgfcphDyU1tK9oOmvFP14RbwQqJDAQ=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",RTGame
+#EXTINF:-1 channel-number="1050" tvg-name="RTGame" tvg-language="English" tvg-country="IR" tvg-logo="https://yt3.googleusercontent.com/uEg1-XfHTF1-28XROsJmA5Hn8BdRIn7S_6lr1MkVVVk-qgfcphDyU1tK9oOmvFP14RbwQqJDAQ=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",RTGame
 pipe:///config/twitchstream.sh rtgame
-#EXTINF:-1 tvg-name="Yogscast" tvg-language="English" tvg-country="UK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/29532548-dedd-4898-84cb-62782f64ef30-profile_image-70x70.png" group-title="Entertainment",Yogscast
+#EXTINF:-1 channel-number="1051" tvg-name="Yogscast" tvg-language="English" tvg-country="UK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/29532548-dedd-4898-84cb-62782f64ef30-profile_image-70x70.png" group-title="Entertainment",Yogscast
 pipe:///config/twitchstream.sh yogscast
-#EXTINF:-1 tvg-name="Duncan" tvg-language="English" tvg-country="UK" tvg-logo="https://yt3.googleusercontent.com/-dkpghYfLdTbKpbNpyDpgYpi37_B1jFYCrQShZcsiEx9vP7IDcMJBz2RauCP8g-lso0KrRuZvC4=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Duncan
+#EXTINF:-1 channel-number="1052" tvg-name="Duncan" tvg-language="English" tvg-country="UK" tvg-logo="https://yt3.googleusercontent.com/-dkpghYfLdTbKpbNpyDpgYpi37_B1jFYCrQShZcsiEx9vP7IDcMJBz2RauCP8g-lso0KrRuZvC4=s160-c-k-c0x00ffffff-no-rj" group-title="Entertainment",Duncan
 pipe:///config/twitchstream.sh lalna
-#EXTINF:-1 tvg-name="Osie" tvg-language="English" tvg-country="UK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c12801cc-7c8a-4749-99e2-0756914f70e6-profile_image-70x70.png" group-title="Entertainment",Osie
+#EXTINF:-1 channel-number="1053" tvg-name="Osie" tvg-language="English" tvg-country="UK" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/c12801cc-7c8a-4749-99e2-0756914f70e6-profile_image-70x70.png" group-title="Entertainment",Osie
 pipe:///config/twitchstream.sh osie
